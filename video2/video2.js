@@ -20,3 +20,5 @@ console.log('Hello world with HUY')
 /* alert trong js là báo động giúp ta hiển thị thông báo trên trình duyệt 
     cú pháp alert ('thông tin bản muốn hiển thị')
 */
+
+
