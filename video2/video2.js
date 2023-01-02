@@ -6,6 +6,7 @@
 console.log('Hello world form javascript')
 console.log('Hello world with HUY')
 
+
 /* 
     Muốn check một biến có giá trị như thế nào thì ta dùng
         Dùng hàm console.log('thông tin bạn muốn hiển thị')
